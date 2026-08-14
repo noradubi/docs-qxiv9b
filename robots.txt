@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-l1rtkq.avalpagos.info/sitemap.xml
